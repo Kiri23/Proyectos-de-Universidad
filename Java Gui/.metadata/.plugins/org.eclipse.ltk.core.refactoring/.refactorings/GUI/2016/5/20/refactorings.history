@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;edu.uprb.layouts_demo&apos; to &apos;edu.uprb.layout_demo&apos;&#x0A;- Original project: &apos;GUI&apos;&#x0A;- Original element: &apos;GUI/src/edu.uprb.layouts_demo&apos;&#x0A;- Renamed element: &apos;GUI/src/edu.uprb.layout_demo&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;edu.uprb.layouts_demo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;edu.uprb.layouts_demo" name="edu.uprb.layout_demo" qualified="false" references="true" stamp="1463154472242" textual="false" version="1.0"/>
+</session>
